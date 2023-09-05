@@ -1,0 +1,8 @@
+Hello $DRIVER_NAME,
+
+This is a reminder email.
+
+We would like to inform you that your rented car $CAR_NAME is available from tomorrow $START_TIME to $END_TIME.
+
+Regards,
+RentACar Team

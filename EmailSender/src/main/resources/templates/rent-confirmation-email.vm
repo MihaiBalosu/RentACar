@@ -1,0 +1,8 @@
+Hello $DRIVER_NAME,
+
+This is a confirmation email.
+
+You rented the following car: $CAR_NAME from $START_TIME to $END_TIME.
+
+Regards,
+RentACar Team
